@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-AwesomeAppApiGatewayApplication<awesome-app-api-gateway>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.github.richygreat.aaag.AwesomeAppApiGatewayApplication",
+      "projectName": "awesome-app-api-gateway",
+      "args": ""
+    }
+  ]
+}
